@@ -448,6 +448,11 @@ shieldroute/
 
 </div>
 
-deom video
+demo video:
 
 https://drive.google.com/file/d/1qY-HrVKuXGQcrldZOIH9WEhZRIdmyIsD/view?usp=sharing
+
+dashboard prototype link:
+
+https://elamparuthi234567.github.io/shieldroute.0/
+
